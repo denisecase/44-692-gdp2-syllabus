@@ -6,8 +6,8 @@
 
 ## Links
 
-* Repository: <https://github.com/profcase/44-692-gdp2-syllabus>
-* Webpage: <https://profcase.github.io/44-692-gdp2-syllabus>
+* Repository: <https://github.com/denisecase/44-692-gdp2-syllabus>
+* Webpage: <https://denisecase.github.io/44-692-gdp2-syllabus>
 
 ## Recommended
 
