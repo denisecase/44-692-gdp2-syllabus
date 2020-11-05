@@ -1,0 +1,60 @@
+{
+  "name": "44-692-gdp2-syllabus",
+  "version": "1.0.0",
+  "description": "Northwest Missouri State University 44-692 Syllabus",
+  "keywords": [
+    "syllabus",
+    "graduate-projects",
+    "html",
+    "css",
+    "javascript",
+    "pwa",
+    "lighthouse-badges",
+    "codacy-badge",
+    "eslint",
+    "prettier",
+    "husky"
+  ],
+  "homepage": "https://github.com/denisecase/44-692-GDP2-syllabus#readme",
+  "bugs": {
+    "url": "https://github.com/denisecase/44-692-GDP2-syllabus/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denisecase/44-692-GDP2-syllabus.git"
+  },
+  "license": "MIT",
+  "author": "Denise Case",
+  "main": "service-worker.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "lint-fix": "eslint --fix .",
+    "prettier": "prettier --write .",
+    "sort": "npx sort-package-json",
+    "test": "npx lighthouse-badges --urls https://denisecase.github.io/44-692-GDP2-syllabus/ -o test_results",
+    "toc": "bash ./tools/gh-md-toc.sh ./README.md > ./tools/toc.md"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "pretty-quick --staged && npm run sort && npm run lint-fix",
+      "pre-push": "echo not running tests"
+    }
+  },
+  "devDependencies": {
+    "eslint": "latest",
+    "eslint-config-airbnb-base": "latest",
+    "eslint-config-prettier": "latest",
+    "eslint-plugin-import": "latest",
+    "eslint-plugin-prettier": "latest",
+    "eslint-plugin-scanjs-rules": "latest",
+    "eslint-plugin-xss": "latest",
+    "husky": "latest",
+    "prettier": "latest",
+    "pretty-quick": "latest",
+    "remark-lint": "latest",
+    "sort-package-json": "latest"
+  }
+}

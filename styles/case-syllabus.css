@@ -1,17 +1,17 @@
 #page div.sqs-row:nth-of-type(2) 
 div.sqs-col-4:nth-of-type(1) /* selct column 1 */ 
-div:not(:last-child) { 
-  margin-bottom: 0.00em;  /* vertically adjust image blocks in col 1 */
+div:not(:last-child) {
+  margin-bottom: 0em; /* vertically adjust image blocks in col 1 */
 }
 #page div.sqs-row:nth-of-type(2) 
 div.sqs-col-4:nth-of-type(2) /* selct colum 2 */ 
-div:not(:last-child) { 
-  margin-bottom: 1.68em;  /* vertically adjust image blocks in col 2 */
+div:not(:last-child) {
+  margin-bottom: 1.68em; /* vertically adjust image blocks in col 2 */
 }
 #page div.sqs-row:nth-of-type(2) 
 div.sqs-col-4:nth-of-type(3) /* select column 3 */
-div:not(:last-child) { 
-  margin-bottom: 3.73em;  /* vertically adjust image blocks in col 3 */
+div:not(:last-child) {
+  margin-bottom: 3.73em; /* vertically adjust image blocks in col 3 */
 }
 
 html {
@@ -25,7 +25,7 @@ body {
   margin-bottom: 60px;
 }
 
-body>.container {
+body > .container {
   padding: 60px 15px 0;
 }
 
@@ -40,7 +40,7 @@ body>.container {
   background-color: #f5f5f5;
 }
 
-.footer>.container {
+.footer > .container {
   padding-right: 1rem;
   padding-left: 1rem;
 }
@@ -104,11 +104,11 @@ code {
 .tg .tg-5mgg {
   font-weight: bold;
   background-color: #c0c0c0;
-  vertical-align: top
+  vertical-align: top;
 }
 
 .tg .tg-yw4l {
-  vertical-align: top
+  vertical-align: top;
 }
 
 mark {
@@ -116,5 +116,5 @@ mark {
 }
 
 .current {
-  background:orange
+  background: orange;
 }
