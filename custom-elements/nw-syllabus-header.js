@@ -35,7 +35,7 @@ class nwSyllabusHeader extends HTMLElement {
           </li>
           <li class="nav-item">
           <a rel="noopener" class="nav-link"
-            href=${this.getAttribute('courseURL2')} target="_blank">Sec02</a>
+            href=${this.getAttribute('courseURL2')} target="_blank">Sec03</a>
         </li>
         </ul>
   
