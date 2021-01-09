@@ -21,9 +21,6 @@ class nwSyllabusFooter extends HTMLElement {
     <!-- Sticky footer with padding (py level 3) on y-axis (top and bottom) -->
 
   <footer class="footer bg-light mx-0 py-3 text-center">
-  <a target="_blank" rel="noopener" 
-  href="https://www.linkedin.com/in/charles-badami-6b1a283/">Dr. Charles Badami</a>
-  &nbsp; &#9670; &nbsp;
     <a target="_blank" rel="noopener" 
     href="https://www.linkedin.com/in/denisecase/">Dr. Denise Case</a>
     &nbsp; &#9670; &nbsp;
