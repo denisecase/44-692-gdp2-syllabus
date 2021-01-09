@@ -11,32 +11,7 @@ class nwSyllabusProfessor extends HTMLElement {
 
 <div class="professor-container">
 <div class="professor-row">
- <div class="professor-column">
 
-<h3>Section 1</h3>
-Dr. Charles Badami
-<br />
-Assistant Professor <br />
-660.562.0814
-<br />
-<a rel="noopener" target="_top" href=
-"mailto:cbadami@nwmissouri.edu?Subject=44-517">cbadami@nwmissouri.edu</a>
-
-<a rel="noopener" target="_blank"
-  href=
-  "https://www.nwmissouri.edu/services/facility/pdf/floorplans/Colden%20Hall%202nd%20Floor.pdf"
-  >Colden Hall 2270</a>
- 
-Office Hours
-<a href=
-"https://drive.google.com/file/d/1IawCbTsOY9GEdwnX8pz1xQmGrJ_8CMUc/view?usp=sharing"
-> (link)</a>
-  M 2-3 PM<br>
-  TuTh 10-12 PM<br>
-  W 2-4 PM<br>
-  
-<br>
-</div>
 <div class="professor-column">
 
 <h3>Section 2</h3>
