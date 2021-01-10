@@ -25,7 +25,9 @@ class nwSyllabusProfessorStandard extends HTMLElement {
       <li>
       <span class="highlight">
       Email must include course number and section (e.g.,
-        <strong>${this.getAttribute('emailSubject1')}</strong>) in the subject line.</span>
+        <strong>${this.getAttribute(
+          'emailSubject1',
+        )}</strong>) in the subject line.</span>
       </li>
       <li>
         Email should be professional, politely written, 

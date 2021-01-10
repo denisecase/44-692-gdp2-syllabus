@@ -34,7 +34,7 @@
     "lint-fix": "eslint --fix .",
     "prettier": "prettier --write .",
     "sort": "npx sort-package-json",
-    "test": "npx lighthouse-badges --urls https://denisecase.github.io/44-692-GDP2-syllabus/ -o test_results",
+    "test": "npx lighthouse-badges --urls https://denisecase.github.io/44-692-gdp2-syllabus/ -o test_results",
     "toc": "bash ./tools/gh-md-toc.sh ./README.md > ./tools/toc.md"
   },
   "husky": {
