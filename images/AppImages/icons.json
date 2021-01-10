@@ -1,20 +1,4 @@
 {
-  "name": "NW 44-692 Syllabus",
-  "short_name": "NW 44-692",
-  "scope": "/",
-  "start_url": "./index.html",
-  "display": "standalone",
-  "orientation": "portrait",
-  "background_color": "#fff",
-  "theme_color": "#006747",
-  "description": "Northwest Missouri State University 44-692 Syllabus.",
-  "author": {
-    "name": "Denise Case",
-    "website": "https://denisecase.github.io",
-    "github": "https://github.com/denisecase",
-    "source-repo": "https://github.com/denisecase/44-692-gdp2-syllabus"
-  },
-  "gcm_sender_id": "?",
   "icons": [
     {
       "src": "windows10/Square71x71Logo.scale-400.png",
