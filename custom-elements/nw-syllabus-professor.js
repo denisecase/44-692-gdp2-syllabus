@@ -7,14 +7,13 @@ class nwSyllabusProfessor extends HTMLElement {
     "https://www.nwmissouri.edu/services/facility/pdf/floorplans/Colden%20Hall%201st%20Floor.pdf"
     >map</a>)
     
-<h2>Course Professors</h2>
+<h2>Course Professor</h2>
 
 <div class="professor-container">
 <div class="professor-row">
 
 <div class="professor-column">
 
-<h3>Section 2</h3>
 Dr. Denise Case
 <br />
 Associate Professor <br />
