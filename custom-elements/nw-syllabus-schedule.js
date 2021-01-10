@@ -59,42 +59,42 @@ class nwSyllabusSchedule extends HTMLElement {
 <tr class="d-flex">
 <td class="col-2 ">9</td>
 <td class="col-4 ">Mon 3-8</td>
-<td class="col-6 ">Spring break (no class)</td>
+<td class="col-6 ">No class Monday, Module 4 continues</td>
 </tr>
 <tr class="d-flex">
 <td class="col-2 ">10</td>
 <td class="col-4 ">Mon 3-15</td>
-<td class="col-6 ">Module 4 continues</td>
+<td class="col-6 ">Module 5 begins</td>
 </tr>
 <tr class="d-flex">
 <td class="col-2 ">11</td>
 <td class="col-4 ">Mon 3-22</td>
-<td class="col-6 ">Module 5 begins</td>
+<td class="col-6 ">Module 5 continues</td>
 </tr>
 <tr class="d-flex">
 <td class="col-2 ">12</td>
 <td class="col-4 ">Mon 3-29</td>
-<td class="col-6 ">Module 5 continues</td>
+<td class="col-6 ">Module 6 begins</td>
 </tr>
 <tr class="d-flex">
 <td class="col-2 ">13</td>
 <td class="col-4 ">Mon 4-5</td>
-<td class="col-6 ">Module 6 begins</td>
+<td class="col-6 ">Module 6 continues</td>
 </tr>
 <tr class="d-flex">
 <td class="col-2 ">14</td>
 <td class="col-4 ">Mon 4-12</td>
-<td class="col-6 ">Module 6 continues</td>
+<td class="col-6 ">Module 7 begins</td>
 </tr>
 <tr class="d-flex">
 <td class="col-2 ">15</td>
 <td class="col-4 ">Mon 4-19</td>
-<td class="col-6 ">Module 7 begins</td>
+<td class="col-6 ">Module 7 continues</td>
 </tr>
 <tr class="d-flex">
 <td class="col-2 ">16</td>
 <td class="col-4 ">Mon 4-26</td>
-<td class="col-6 ">Prep week (no new content, no in-person classes)</td>
+<td class="col-6 ">No class - prep week</td>
 </tr>
 <tr class="d-flex">
 <td class="col-2 ">17</td>
