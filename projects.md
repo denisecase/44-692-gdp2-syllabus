@@ -21,20 +21,19 @@
 7. 7-Puneeth-Sai  [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://gentle-forest-75819.herokuapp.com/)
    - Repo <https://github.com/Puneeth159/fsa-group-7> 
    - App <https://gentle-forest-75819.herokuapp.com/>
-8. 8-Sudheera-Sumana   [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://fsa-group8.herokuapp.com/) 
+8. 8-Sudheera-Sumana   [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://fsa-group8.herokuapp.com/)
    - Repo <https://github.com/sumana-reddy/FSA-group8> 
    - App <https://fsa-group8.herokuapp.com/>
-9. 9-Yashwanth-Pruthvi  [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://huntappgame.herokuapp.com/)  
+9. 9-Yashwanth-Pruthvi  [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://huntappgame.herokuapp.com/)
    - Repo <https://github.com/pruthvi-naskanti/The-Hunt-FSA9> 
    - App <https://huntappgame.herokuapp.com/>
-10. 10-Sumanth-Chandu  
+10. 10-Sumanth-Chandu  [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://locandyy.herokuapp.com/)
    - Repo <https://github.com/Chandupolisetty/Locandyy> 
    - App <https://locandyy.herokuapp.com/>
-   - [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://locandyy.herokuapp.com/)  
-11. 11-Pooja-Harika   [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://grp-11-full-stack-app.herokuapp.com/) 
+11. 11-Pooja-Harika   [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://grp-11-full-stack-app.herokuapp.com/)
    - Repo <https://github.com/KHARIKA17/Group-11-Full-stack-app> 
    - App <https://grp-11-full-stack-app.herokuapp.com/>
-12. 12-Rakashelar-Ravi  [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://questhunt-frontend.herokuapp.com/) 
+12. 12-Rakashelar-Ravi  [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://questhunt-frontend.herokuapp.com/)
    - Repo <https://github.com/Rajshekar2641/fullstack-app> 
    - App <https://questhunt-frontend.herokuapp.com/>
  
