@@ -18,9 +18,9 @@
 6. 6-Swaroop-Krishna   [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://hunt6.herokuapp.com/)
   - Repo <https://github.com/Krishna-Koyyalamudi/group-6-full-stack-app> 
   - App <https://hunt6.herokuapp.com/>
-7. 7-Puneeth-Sai  [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://gentle-forest-75819.herokuapp.com/)
+7. 7-Puneeth-Sai  [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://github.com/Puneeth159/fsa-group-7/)
   - Repo <https://github.com/Puneeth159/fsa-group-7> 
-  - App <https://gentle-forest-75819.herokuapp.com/>
+  - App <https://github.com/Puneeth159/fsa-group-7>
 8. 8-Sudheera-Sumana   [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://fsa-group8.herokuapp.com/)
   - Repo <https://github.com/sumana-reddy/FSA-group8> 
   - App <https://fsa-group8.herokuapp.com/>
