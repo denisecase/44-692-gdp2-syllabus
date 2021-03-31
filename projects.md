@@ -20,7 +20,7 @@
   - App <https://hunt6.herokuapp.com/>
 7. 7-Puneeth-Sai  [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://github.com/Puneeth159/fsa-group-7/)
   - Repo <https://github.com/Puneeth159/fsa-group-7> 
-  - App <https://github.com/Puneeth159/fsa-group-7>
+  - App <https://fsa-group-7.herokuapp.com/>
 8. 8-Sudheera-Sumana   [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://fsa-group8.herokuapp.com/)
   - Repo <https://github.com/sumana-reddy/FSA-group8> 
   - App <https://fsa-group8.herokuapp.com/>
