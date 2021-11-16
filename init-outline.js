@@ -2,10 +2,10 @@
 
 export default {
   mod1: 'Course intro, project basics',
-  mod2: 'Project and application development skills',
-  mod3: 'Project and application development skills',
-  mod4: 'Hackathon 1',
-  mod5: 'Hackathon 2',
-  mod6: 'Hackathon 3',
+  mod2: 'Sprint 1',
+  mod3: 'Sprint 2',
+  mod4: 'Sprint 3',
+  mod5: 'Sprint 4',
+  mod6: 'Sprint 5',
   mod7: 'Final and lessons learned',
 };
