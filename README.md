@@ -27,3 +27,4 @@
 - Using Visual Studio Code, open the folder to edit.
 - Open GitHub repository, under Settings / GitHub Pages, set Source to master branch and click Save.
 - Go to your Google Analytics dashboard. Add a new property for your GitHub Page, generate your tracking id, and replace the analytics code with yours.
+
